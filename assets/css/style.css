@@ -5,6 +5,25 @@
     margin: 0;
 }
 
+/* Link element modifier */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Paragraph element modifier */
+
+p {
+    font-size: 16px;
+}
+
+/* Body element modifier */
+
+body {
+    background-color: #d9dcd6;
+}
+
 /* Header Class Section */
 
 .header {
@@ -38,25 +57,6 @@
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-/* Link element modifier */
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* Paragraph element modifier */
-
-p {
-    font-size: 16px;
-}
-
-/* Body element modifier */
-
-body {
-    background-color: #d9dcd6;
 }
 
 /* Main image backround class */
