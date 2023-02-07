@@ -9,6 +9,9 @@ I learned about semantic HTML elements and how to use them properly to make the 
 ## Usage
 
 Just open up the link to the website hosted by Github and the final product should be there working and looking exactly the same as it was before
+In case you have no access to the website here it is:
+
+https://rockoban420.github.io/horiseon_refactor/
 
 ## Credits
 
