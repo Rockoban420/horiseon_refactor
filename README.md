@@ -6,8 +6,6 @@ Motivation behind this project was to learn how to order and clean up code using
 Before the refactor the code was repeating itself and not very cut and dry so after some cleaning and commenting the css is much more readable and concise.
 I learned about semantic HTML elements and how to use them properly to make the code more readable and also how to organize a CSS file to make it easier to navigate.
 
-## Table of Contents (Optional)
-
 ## Usage
 
 Just open up the link to the website hosted by Github and the final product should be there working and looking exactly the same as it was before
