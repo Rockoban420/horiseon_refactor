@@ -3,7 +3,7 @@
 ## Description
 
 Motivation behind this project was to learn how to order and clean up code using semantic HTML elements and re organizing the CSS file to make it more understandable for anybody who opens it.
-Before the refactor the code was repeating itself and not very cut and dry so after some cleaning and commenting the css is much more readable and concise.
+Before the refactor the code was repeating itself and not very cut and dry so after some cleaning and commenting the CSS is much more readable and concise.
 I learned about semantic HTML elements and how to use them properly to make the code more readable and also how to organize a CSS file to make it easier to navigate.
 
 ## Usage
